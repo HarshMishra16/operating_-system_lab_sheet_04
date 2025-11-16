@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/harshkumarmishra16/Documents/lab sheet 4/exec_demo'
+relocations:     []
+...
